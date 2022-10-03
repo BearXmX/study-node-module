@@ -1,0 +1,7 @@
+copy from e.txt
+refresh 01 e.txt
+refresh 02 e.txt
+refresh 03 e.txt
+refresh 04 e.txt
+refresh 05 e.txt
+refresh 06 e.txt

@@ -77,4 +77,5 @@ console.log(path.resolve('dist'))
 console.log(path.resolve('./dist'))
 
 /** @description path 规范化路径 */
+// 'a/b/c/d'
 console.log(path.normalize('a///b/c/d'))
