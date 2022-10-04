@@ -2,6 +2,9 @@
 
 import path from 'path'
 
+console.log(__dirname, '__dirname')
+console.log(__filename, '__filename')
+
 /** @description path.basename 获取路径中的基础名称 => 返回路径的最后一个部分 */
 // index.ts
 console.log(path.basename(__filename))
