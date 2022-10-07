@@ -1,5 +1,8 @@
 // process 进程
 
+// 获取命令行参数
+console.log(process.argv)
+
 const flag = Math.random() * 100 > 50
 
 if (flag) {
